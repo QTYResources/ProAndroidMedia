@@ -22,7 +22,9 @@ Chapter01   Introduction to Android Imaging
     05. SizedCameraIntent                           ===> 调整通过调用系统相机拍摄返回的图片大小
 
 Chapter02   Building Custom Camera Applications
-
+    01. Snapshot                                    ===> 使用 android.hardware.Camera 构建自定义相机
+    02. TimelapseSnapshot                           ===> 定时拍照
+    03. TimerSnapshot                               ===>
 
 Chapter03   Image Editing and Processing
 
